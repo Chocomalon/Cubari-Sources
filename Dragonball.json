@@ -1,0 +1,17 @@
+{
+  "title": "Dragon Ball",
+  "description": "Dragon Ball is a Japanese media franchise created by Akira Toriyama that follows the life and adventures of Son Goku as he grows from a strange, super-strong boy with a monkey tail into the universe’s greatest martial artist",
+  "artist": "Akira Toriyama",
+  "author": "",
+  "cover": "https://static.wikia.nocookie.net/dragonball/images/0/08/DBSG_11_New.jpg/revision/latest?cb=20240904002235",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1793074408",
+      "groups": {
+        "": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvZHJhZ29uLWJhbGwuMzMzOC9jMQ==/"
+      }
+    }
+  }
+}
